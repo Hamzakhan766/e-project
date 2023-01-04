@@ -1,0 +1,310 @@
+{
+  "Categories": [
+    null,
+    {
+      "categoryDescription": "Known for its class and finest ingredients, French cuisine is home to the best gourmet meal and Michelin guide.",
+      "categoryId": "1",
+      "categoryImageUri": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/category_images%2FChinese-Cuisine.jpg?alt=media&token=278f3363-30f9-4824-842e-870b5727668b",
+      "categoryName": "Chinese"
+    },
+    {
+      "categoryDescription": "Kabuli palaw, chapli kabab, tika, and mutton karahi are the most famous dishes.",
+      "categoryId": "2",
+      "categoryImageUri": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/category_images%2Fdesi.jpg?alt=media&token=2c36080e-9da1-476b-9df1-a6b95f563ac3",
+      "categoryName": "Desi"
+    },
+    {
+      "categoryDescription": "Turkish food is one of the best cuisines in the world that offers eggplant, lamb kebabs, fried vegetables, dolmas, and walnuts. ",
+      "categoryId": "3",
+      "categoryImageUri": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/category_images%2FTurkish-Cuisine.jpg?alt=media&token=a1521159-2b02-4534-8414-287961585633",
+      "categoryName": "Turkish"
+    },
+    {
+      "categoryDescription": "Right from truffles, sea food, croissants and baguette, each dish is cooked to detail and had with a glass of wine. ",
+      "categoryId": "4",
+      "categoryImageUri": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/category_images%2FThai-Cuisine.jpeg?alt=media&token=8c07cfd9-69f1-42af-b5ab-ddf762a141e2",
+      "categoryName": "French"
+    },
+    {
+      "categoryDescription": "Spaghetti, Pasta, Pizza and a few others, are some of the various types of Italian cuisines people from around the world ",
+      "categoryId": "5",
+      "categoryImageUri": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/category_images%2FFrench-Cuisine.jpg?alt=media&token=396c8026-1209-4df7-abcc-971791bbc790",
+      "categoryName": "Italian"
+    },
+    {
+      "categoryDescription": "No vacation is complete without enjoying a wholesome Indian meal.",
+      "categoryId": "6",
+      "categoryImageUri": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/category_images%2FIndian-Cuisine-1536x1024.jpg?alt=media&token=e6420746-d163-4ce7-8383-d6cdaa5fae7f",
+      "categoryName": "Indian"
+    }
+  ],
+  "Recipe": {
+    "-NKsvO3TZyoJd-BHO5Ik": {
+      "Ingredients": [
+        "Capsicum",
+        "Adrak",
+        "Gram Masala",
+        "Chilli",
+        "Haldi",
+        "Beaf",
+        "Tej Patta",
+        "Zeera",
+        "Dhaniya`",
+        "Kalunji",
+        "Potato"
+      ],
+      "recipeCategoryID": "2",
+      "recipeDescription": "Simply put, biryani is a spiced mix of meat and rice, traditionally cooked over an open fire in a leather pot. It is combined in different ways with a variety of components to create a number of highly tasty and unique flavor combinations.",
+      "recipeDirection": "Wash 1 kg chicken, marinate with 1 cup yogurt, 1 ½ tbsp ginger garlic pasteAdd 1 tbsp chili powder, 2 tbsp coriander powderAdd juice of 2 lemon, 1 bunch of mint leaves, 6 green chilies, 1 cup plum and salt to taste for 30 minutes.Heat 1 cup oil in pan, add 4 chopped onion and fry till golden brownRemove half of the fried onion and spread on a paper. Now add the marinated meat to pan.Fry well till water dries.Boil potatoes in steam, cut each into 4 pieces and fry in oil.Also cut tomatoes in four pieces each.Fry tomato pieces and add with fried potatoes to the chicken mixture.Boil 1 kg basmati rice with mint leaves, 6 green chilies, 6 black pepperAdd 4 cloves, salt to taste and water as required till half done.Now drain out water and keep aside.Grease another pan and make a layer of boiled rice.Top with chicken mixture, again top with remaining boiled rice.Sprinkle the leftover fried onion.Dissolve ¼ tsp yellow color in 1 cup hot milk.Pour on top of boiled rice. Also pour juice of 2 lemons and simmer for 10 minutes. Serve hot.",
+      "recipeID": "-NKsvO3TZyoJd-BHO5Ik",
+      "recipeImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/Recipe_Images%2F1672728054803?alt=media&token=729dc0ab-7422-4e25-a7c1-eeb14e925e1e",
+      "recipeName": "Bombay Biryani",
+      "recipeServing": "Four",
+      "recipeVideoUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/Recipe_Videos%2F1672728062084?alt=media&token=e3c37d3a-f484-49be-93fd-dec62ea5f415",
+      "userID": "ogyAX4cwcZUiSrhr2qLvEojpMda2"
+    }
+  },
+  "Users": {
+    "3XqBG36AwZTCaOXFuw6Gi1ijIOF2": {
+      "user_UseEmail": "rafay@gmail.com",
+      "user_UserName": "rafaykhan",
+      "user_UserPassword": "123456@abc",
+      "user_UserPhone": "4511228869",
+      "user_fullName": "rafaykhan",
+      "user_id": "3XqBG36AwZTCaOXFuw6Gi1ijIOF2"
+    },
+    "g7RhmtKc6zdyepi1NnH22sQeei73": {
+      "user_UseEmail": "abc@gmail.com",
+      "user_UserName": "abc123",
+      "user_UserPassword": "abc@9090",
+      "user_UserPhone": "1112222233",
+      "user_fullName": "abc",
+      "user_id": "g7RhmtKc6zdyepi1NnH22sQeei73"
+    },
+    "ogyAX4cwcZUiSrhr2qLvEojpMda2": {
+      "user_UseEmail": "hamza@gmail.com",
+      "user_UserName": "hamzaali123",
+      "user_UserPassword": "abc@123456",
+      "user_UserPhone": "3048350035",
+      "user_fullName": "hamza ali",
+      "user_id": "ogyAX4cwcZUiSrhr2qLvEojpMda2"
+    }
+  },
+  "grocery": {
+    "34662025": {
+      "groceryID": 34662025,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849830397862?alt=media&token=3788c85e-6f6d-4470-b23d-edf7043f6b60",
+      "groceryName": "Capsicum"
+    },
+    "364688342": {
+      "groceryID": 364688342,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849284369008?alt=media&token=5088c142-371f-4a43-a4c1-50505643aaf8",
+      "groceryName": "Lemon"
+    },
+    "444800847": {
+      "groceryID": 444800847,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849814414578?alt=media&token=b739cdfe-8d4c-4664-a2ad-0b046afeec46",
+      "groceryName": "Calliry"
+    },
+    "476369502": {
+      "groceryID": 476369502,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849736985146?alt=media&token=c0050483-9529-47f8-afe4-fc1e9b0a2ab4",
+      "groceryName": "Peas"
+    },
+    "489606827": {
+      "groceryID": 489606827,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849288643725?alt=media&token=540e210a-883b-4763-a228-376ce4910938",
+      "groceryName": "Cacumber"
+    },
+    "614260788": {
+      "groceryID": 614260788,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849762698531?alt=media&token=c7c2dc25-7a3f-4b85-a097-ea145405f49c",
+      "groceryName": "Carrot"
+    },
+    "638745290": {
+      "groceryID": 638745290,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849715599659?alt=media&token=f931be1f-18c3-4063-866d-db1fa9e29dea",
+      "groceryName": "Corn"
+    },
+    "643977377": {
+      "groceryID": 643977377,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849659649008?alt=media&token=64ae64d5-a263-4318-8891-9cf6c911cc8a",
+      "groceryName": "Winter Melon"
+    },
+    "743494295": {
+      "groceryID": 743494295,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849463768288?alt=media&token=e92fa30e-5942-454d-8930-e2267d542121",
+      "groceryName": "Chicken"
+    },
+    "758167061": {
+      "groceryID": 758167061,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849759088455?alt=media&token=cfcda703-757b-41ad-9279-8057ccceb77e",
+      "groceryName": "Eggplant"
+    },
+    "759407365": {
+      "groceryID": 759407365,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849164966521?alt=media&token=c2de9607-002d-4350-9652-ce8fc5306aa7",
+      "groceryName": "Redish"
+    },
+    "764370442": {
+      "groceryID": 764370442,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849618901572?alt=media&token=626ea26f-077e-4319-aa4e-575717994e9f",
+      "groceryName": "Onion"
+    },
+    "790703408": {
+      "groceryID": 790703408,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849531121488?alt=media&token=4e504cda-819b-40d5-9421-aafb5c7d329c",
+      "groceryName": "Green Chilli"
+    },
+    "794751098": {
+      "groceryID": 794751098,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849342494760?alt=media&token=28cff624-3fbb-4763-9e45-c23aab207225",
+      "groceryName": "Cocunut"
+    },
+    "834251595": {
+      "groceryID": 834251595,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849227315392?alt=media&token=707b93f7-3bdd-4525-8507-216723f97995",
+      "groceryName": "Green Cabage"
+    },
+    "840329734": {
+      "groceryID": 840329734,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849834952131?alt=media&token=8ffc93db-3d63-4ae1-aae0-c54631f9a02f",
+      "groceryName": "Lehsan"
+    },
+    "897184938": {
+      "groceryID": 897184938,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849736724426?alt=media&token=1695e9ab-aac7-480e-9b56-2e385f837f14",
+      "groceryName": "Jaifal"
+    },
+    "926182827": {
+      "groceryID": 926182827,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849797165827?alt=media&token=992010dd-3d63-4854-9bba-9625e9a7b577",
+      "groceryName": "Kasuri Methi"
+    },
+    "938284652": {
+      "groceryID": 938284652,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849303895759?alt=media&token=b86b908d-7e59-418f-a640-00a4398f2197",
+      "groceryName": "Adrak"
+    },
+    "945567818": {
+      "groceryID": 945567818,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849405301860?alt=media&token=5d36e6e5-1aa5-4689-bf16-0cd62a49c9ab",
+      "groceryName": "Gram Masala"
+    },
+    "946638695": {
+      "groceryID": 946638695,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849984241125?alt=media&token=bbe63aff-2dae-49e4-b00a-23f58fde631d",
+      "groceryName": "Chilli"
+    },
+    "960908669": {
+      "groceryID": 960908669,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849435249022?alt=media&token=7934a161-1a79-433a-8cbb-3114af3d02ae",
+      "groceryName": "Saunf"
+    },
+    "982617012": {
+      "groceryID": 982617012,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F11988258494154335?alt=media&token=b2ac7b1a-1432-403e-a756-148ed21ac6b0",
+      "groceryName": "Haldi"
+    },
+    "1014520475": {
+      "groceryID": 1014520475,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849348778832?alt=media&token=e4530c98-fa51-451f-9efe-fcd0571558d0",
+      "groceryName": "Beaf"
+    },
+    "1025631141": {
+      "groceryID": 1025631141,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F119882584959702231?alt=media&token=9bdbeb53-3a3b-445e-8947-2fc4f98d9bab",
+      "groceryName": "Hing"
+    },
+    "1041031913": {
+      "groceryID": 1041031913,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849487609689?alt=media&token=2da7016d-c5f2-4781-9811-c73b1a7ea282",
+      "groceryName": "Bleack Peper"
+    },
+    "1057363110": {
+      "groceryID": 1057363110,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849430370001?alt=media&token=36dd5b0a-7455-43d5-9ac7-fa3ae5d52991",
+      "groceryName": "Acourn"
+    },
+    "1067187805": {
+      "groceryID": 1067187805,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849971087994?alt=media&token=62b5d8d1-e7c5-418d-a1f1-bcc2e8b59fcd",
+      "groceryName": "Cauli Flower"
+    },
+    "1114575254": {
+      "groceryID": 1114575254,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849530221636?alt=media&token=c37ea1d1-849a-45b9-8291-d9ab0a99585e",
+      "groceryName": "Tej Patta"
+    },
+    "1221539985": {
+      "groceryID": 1221539985,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849846319598?alt=media&token=6ed4e0a9-c844-48a9-b00d-48c1488e588f",
+      "groceryName": "Dar Cheeny"
+    },
+    "1243699468": {
+      "groceryID": 1243699468,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849734785410?alt=media&token=2a95a06a-291f-4e82-95c4-84fea4c99920",
+      "groceryName": "Fish"
+    },
+    "1251366130": {
+      "groceryID": 1251366130,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849521389993?alt=media&token=402782b3-c476-45de-8b6d-4c0042f31db4",
+      "groceryName": "Bitter squash"
+    },
+    "1279016312": {
+      "groceryID": 1279016312,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849725443213?alt=media&token=d03c9d12-f72a-4537-99f2-299e91423845",
+      "groceryName": "Ajwain"
+    },
+    "1312356568": {
+      "groceryID": 1312356568,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849448955663?alt=media&token=176d85a7-569a-47a6-812d-b6bdf4618c8d",
+      "groceryName": "Zeera"
+    },
+    "1407359773": {
+      "groceryID": 1407359773,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849321657294?alt=media&token=4923e38d-4b0f-488a-8b3d-b4d567616bf0",
+      "groceryName": "Dhaniya`"
+    },
+    "1436100047": {
+      "groceryID": 1436100047,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849481111278?alt=media&token=c29aaa8f-469d-4bce-9d5d-8e6d6761b3f5",
+      "groceryName": "Kalunji"
+    },
+    "1455121914": {
+      "groceryID": 1455121914,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849632701253?alt=media&token=2883ba18-2e94-415b-b4d4-216c2401b183",
+      "groceryName": "Lady Finger"
+    },
+    "1508042189": {
+      "groceryID": 1508042189,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849717983642?alt=media&token=0860dc75-5cf6-4819-aade-dba0bf0a527e",
+      "groceryName": "Mutton"
+    },
+    "1510921649": {
+      "groceryID": 1510921649,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849239532823?alt=media&token=4d210227-1752-442e-b757-dfcf659d6c0b",
+      "groceryName": "Bottle Guard"
+    },
+    "1539642198": {
+      "groceryID": 1539642198,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849564568787?alt=media&token=6a519821-9eea-46c5-93fc-22a90273753c",
+      "groceryName": "Lal Mirch"
+    },
+    "1573965496": {
+      "groceryID": 1573965496,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849765457086?alt=media&token=80285c15-c58d-4bfd-9bfa-e8d810b61dd5",
+      "groceryName": "Potato"
+    },
+    "1584819122": {
+      "groceryID": 1584819122,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849854692409?alt=media&token=7ebef9b0-2680-4b01-99eb-f3a7e0651a2b",
+      "groceryName": "Kali Mirch"
+    },
+    "1958748386": {
+      "groceryID": 1958748386,
+      "groceryImageUrl": "https://firebasestorage.googleapis.com/v0/b/foodchoice-b79b6.appspot.com/o/grocery_images%2F1198825849298601155?alt=media&token=426707b2-8f52-45bc-8449-5cca46b64c10",
+      "groceryName": "Elaichi"
+    }
+  }
+}
